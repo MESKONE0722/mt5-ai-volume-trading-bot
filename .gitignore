@@ -2,3 +2,10 @@ __pycache__/
 *.pyc
 *.log
 .env
+accounts.json
+settings.json
+monitor.json
+daily_stats.json
+shadow_trades.json
+trade_history_stats.json
+trade_perf_stats.json

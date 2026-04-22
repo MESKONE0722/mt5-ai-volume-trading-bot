@@ -1,0 +1,9 @@
+{
+    "mt5_login": 0,
+    "mt5_password": "",
+    "mt5_server": "MetaQuotes-Demo",
+    "trading_active": false,
+    "status": "paused",
+    "last_alert": 0,
+    "target_account": ""
+}

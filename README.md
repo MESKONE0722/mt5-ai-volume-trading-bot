@@ -37,6 +37,13 @@ export DISCORD_BOT_TOKEN=your_discord_bot_token
 python3 discord_remote.py
 ```
 
+Keep runtime account and trading state local:
+
+```bash
+cp settings.example.json settings.json
+cp accounts.example.json accounts.json
+```
+
 ---
 
 ### 🛠️ AI Training Protocol (CRITICAL)
