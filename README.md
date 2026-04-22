@@ -28,6 +28,15 @@ This repository houses a high-performance **algorithmic trading engine** designe
 * **Remote Control**
   Fully integrated with a **Discord Bot** for real-time monitoring, status reports, and remote account switching.
 
+### Discord Bot Setup
+
+Set the bot token in the environment before starting `discord_remote.py`:
+
+```bash
+export DISCORD_BOT_TOKEN=your_discord_bot_token
+python3 discord_remote.py
+```
+
 ---
 
 ### 🛠️ AI Training Protocol (CRITICAL)

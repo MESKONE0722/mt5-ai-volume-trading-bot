@@ -213,4 +213,7 @@ async def on_ready():
         main_loop.start()
 
 
+if not TOKEN:
+    raise RuntimeError("Set DISCORD_BOT_TOKEN before starting the Discord bot.")
+
 bot.run(TOKEN)
